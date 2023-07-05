@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "nombre": "grano"
+    },
+    {
+      "id": 2,
+      "nombre": "cappuccino"
+    },
+    {
+      "id": 3,
+      "nombre": "vainilla"
+    },
+    {
+      "id": 4,
+      "nombre": "espresso"
+    }
+  ]
+  
